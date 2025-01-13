@@ -1,0 +1,9 @@
+To use the program.
+- open terminal in this file
+- type "make"
+- then type "./spreadsheet"
+
+Makefile will handle compilation automaticlly.
+
+This program uses c++17
+After using the comands above you are free to use the program.
